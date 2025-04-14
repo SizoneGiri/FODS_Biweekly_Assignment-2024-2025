@@ -1,0 +1,3 @@
+Name              Course     Level
+Czone Giri       Bsc.AI       L3
+Smith Adhikari    Bsc.AI       L3
